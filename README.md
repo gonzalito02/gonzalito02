@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there! My name is Gonzalo ➡️ I'm FullStack Developer! 🏆
+ 
+### :book: --> I’m currently working as a college profesor at Universidad Católica de Salta, teaching strategy and business.
 
-<!--
-**gonzalito02/gonzalito02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :zap: --> But I want to start working as a web developer as soon as posible!! 
+## :bar_chart: I'm hungry to learn more and get practice all my new technical knowledge!!
+ - JavaScript 
+ - CSS 
+ - React 
+ - Express 
+ - SQL
+ - Python
 
-Here are some ideas to get you started:
+### You can see my repo down below 😏 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Contact me on LinkedIn or send me an email! 📧
+
+[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/gonzalorumi/)](https://www.linkedin.com/in/gonzalorumi/)&nbsp; &nbsp; 
+
+[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:rumigonzalo@gmail.com)&nbsp;
+
+### Thank you for reading me! :) 
