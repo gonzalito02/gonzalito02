@@ -2,8 +2,8 @@
  
 ### :book: --> I’m currently working as a college profesor at Universidad Católica de Salta, teaching strategy and business.
 
-### :zap: --> But I want to start working as a web developer as soon as posible!! 
-## :bar_chart: I'm hungry to learn more and get practice all my new technical knowledge!!
+### :zap: ==> But I want to start working as a web developer as soon as posible!! 
+## 📈: I'm hungry to learn more and get practice all my new technical knowledge!!
  - JavaScript 
  - CSS 
  - React 
@@ -11,7 +11,7 @@
  - SQL
  - Python
 
-### You can see my repo down below 😏 
+### You can see my repos down below 😏 
 
 ## 📧 Contact me on LinkedIn or send me an email! 📧
 
@@ -19,4 +19,4 @@
 
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:rumigonzalo@gmail.com)&nbsp;
 
-### Thank you for reading me! :) 
+### Thank you for reading me! 👍 
